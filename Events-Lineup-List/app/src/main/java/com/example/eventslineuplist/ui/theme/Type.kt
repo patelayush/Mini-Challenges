@@ -36,6 +36,6 @@ val Typography = Typography(
 )
 
 val ParkinsansFontFamily = FontFamily(
-    Font(R.font.Parkinsans, FontWeight.Normal),
+    Font(R.font.parkinsans, FontWeight.Normal),
     // Add more weights/styles as needed
 )
