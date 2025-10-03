@@ -2,7 +2,9 @@
 
 A simple, modern ticket purchasing UI built entirely with Jetpack Compose. This single-screen application demonstrates fundamental concepts of building a dynamic and interactive UI in Android using a declarative approach.
 
-Figma - https://www.figma.com/design/JHJzNJwN43ZxpojtmBHtMR/Designing-the-Festival?node-id=5-500&t=MXIhv7kbR2UvncEg-0
+Figma - https://www.figma.com/design/JHJzNJwN43ZxpojtmBHtMR/Designing-the-Festival?node-id=5-500&t=MXIhv7kbR2UvncEg-0"
+
+Video - [Working Demo](ticket_builder_demo.webm)
 
 ---
 
