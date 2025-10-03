@@ -62,8 +62,6 @@ To get a local copy up and running, follow these simple steps.
 
 A modern and sleek Android application built with Jetpack Compose that displays a lineup for an event. The app features a clean, single-screen UI with custom typography and a clear information hierarchy, making it easy for users to see who is performing, when, and on what stage.
 
-*(Suggestion: Take a screenshot of your running app and add it here for a great visual introduction! You can link it from your project's `docs` folder or an image hosting service.)*
-
 ## 🚀 Features
 
 *   **Dynamic Event List**: Displays a list of event lineup items, each with artist, time, and stage information.
@@ -120,8 +118,6 @@ To get a local copy up and running, follow these simple steps.
 2.  # Events Lineup List
 
 A modern and sleek Android application built with Jetpack Compose that displays a lineup for an event. The app features a clean, single-screen UI with custom typography and a clear information hierarchy, making it easy for users to see who is performing, when, and on what stage.
-
-*(Suggestion: Take a screenshot of your running app and add it here for a great visual introduction! You can link it from your project's `docs` folder or an image hosting service.)*
 
 ## 🚀 Features
 
