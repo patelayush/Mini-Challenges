@@ -4,7 +4,7 @@ A modern and sleek Android application built with Jetpack Compose that displays 
 
 Figma - https://www.figma.com/design/JHJzNJwN43ZxpojtmBHtMR/Designing-the-Festival?node-id=0-1
 
-Video - [demo](expandable_list_demo.mp4)
+Video - [Working Demo](expandable_list_demo.mp4)
 
 ## 🚀 Features
 
