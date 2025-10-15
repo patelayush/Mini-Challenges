@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/animator_pumpkin_animator1.xml.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/animator/pumpkin_animator1.xml"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/xml_backup_rules.xml.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/drawable_pumpkin.xml.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/drawable/pumpkin.xml"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/drawable_animated_pumpkin.xml.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/drawable/animated_pumpkin.xml"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/drawable_nimated_pumpkin.xml.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/drawable/nimated_pumpkin.xml"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.halloweenlab.app-debug-47:/animator_pumpkin_animator.xml.flat",
+        "source": "com.example.halloweenlab.app-main-49:/animator/pumpkin_animator.xml"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/animator_pumpkin_animator.xml.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/animator/pumpkin_animator.xml"
+    },
+    {
+        "merged": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-debug-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/patel/.gradle/daemon/8.11.1/com.example.halloweenlab.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    }
+]
